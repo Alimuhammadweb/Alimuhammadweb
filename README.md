@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Alimuhammad 👋
 
-<!--
-**Alimuhammadweb/Alimuhammadweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer from Uzbekistan
+🤖 Passionate about AI, Web Development, and Technology
+📚 Constantly learning and improving my skills
+🚀 Building projects, solving problems, and turning ideas into code
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Software Engineering
+* Artificial Intelligence
+* Full-Stack Web Development
+* English Communication
+
+## 🛠️ Technologies
+
+* HTML, CSS, JavaScript
+* Python
+* Git & GitHub
+
+## 📫 Connect With Me
+
+* GitHub: @Alimuhammadweb
+
+⚡ Fun Fact: I enjoy coding, reading books, and learning something new every day.
