@@ -15,7 +15,7 @@
 ## 🛠️ Technologies
 
 * HTML, CSS, JavaScript
-* Python
+* Nextjs React Tailwind Type script
 * Git & GitHub
 
 ## 📫 Connect With Me
